@@ -26,7 +26,10 @@ Model View Controller.
 Data  Ui   Controller
 
 In this system, you separate functions that update your data from functions that update your state(UI).
-A typical example is displayed in this repository at /src/functions.js
+
+A typical example is displayed in this repository at /src/assets/functions/model1.js
+In the App.jsx file, useState and set[vareiable name ] is an example of the SOC that react does under the hood. 
+You can also study my vtamise-chat-app repository for another example of this method of working with SOC
 
 
 In this codebase, a typical file structure is shown.
