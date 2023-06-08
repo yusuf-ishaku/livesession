@@ -6,5 +6,11 @@ export const Octopus = {
         return item+1
       }
     },
+    View: {
+        
+    }
+    Controller: {
+
+}
    
 }
